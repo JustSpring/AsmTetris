@@ -6,8 +6,11 @@
 * Made by Aviv Friedman 2023 as part of a final project of the year at school.
 
 ## Screenshots
-
-
+### Start Images
+![AvStart](https://github.com/JustSpring/AsmTetris/assets/87150546/a97066fb-26e8-44ae-a27c-5baacd60909d)
+![AvKeys](https://github.com/JustSpring/AsmTetris/assets/87150546/bf7321fd-30f1-4b80-90d7-2ad635c25d58)
+### Midgame
+![tetris_gameplay](https://github.com/JustSpring/AsmTetris/assets/87150546/cac239a4-a145-4ef7-bbbc-47344d0cc5c7)
 ## Building
 To run this project without any changes you don't need to build the **tetris.asm** to **tetris.exe**.
 
