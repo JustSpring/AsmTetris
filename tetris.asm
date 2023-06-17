@@ -1273,7 +1273,6 @@ proc RandomColor
     mul cx ; multiplies the value in the ax (the seed) by cx | Range: 0-65636 (AX) Doesn't have to be 7
     shr ax, 13          ; Shift Right, Divide by 2^13 since the range is 2^16 | Range 0-7
 
-    ;add ax, 1           ; Shift range from 0-6 to 1-7
     ;check if it is really in range
     cmp al, 7
     jg StartRandomColorAgain
